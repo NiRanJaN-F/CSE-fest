@@ -1,0 +1,22 @@
+{
+  "name": "vibrancse-fest",
+  "version": "1.0.0",
+  "description": "Official Department CSE Fest Website - VibranCSE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "keywords": [
+    "fest",
+    "cse",
+    "vibrancse",
+    "coding",
+    "hackathon",
+    "tech-fest"
+  ],
+  "author": "Principal Software Engineer & UI/UX Designer",
+  "license": "MIT"
+}
